@@ -17,7 +17,7 @@ export const withInstall = <T>(component: T, alias?: string) => {
 
 export const PaperOfPainter = withInstall(PaperOfPainterCom);
 
-// 以数组的结构保存组件，便于遍历
+// 保存组件
 const components: any = { PaperOfPainter };
 
 // 定义 install 方法
