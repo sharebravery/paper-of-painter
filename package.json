@@ -33,7 +33,10 @@
   },
   "dependencies": {
     "@types/vue": "^2.0.0",
+    "@vueuse/core": "^8.7.4",
+    "@vueuse/integrations": "^8.7.4",
     "ant-design-vue": "^3.2.6",
+    "drauu": "^0.3.0",
     "less": "^4.1.3",
     "path": "^0.12.7",
     "vue": "^3.2.25"
